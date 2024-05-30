@@ -13,3 +13,12 @@ This is a simple Python bot that converts text to speech (TTS) in Hindi using th
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/hindi-tts-bot.git
+
+Configuration
+>Update the char variable in the script with your Character AI API key.
+>Ensure Pygame is properly installed and configured for audio playback.
+
+Credits
+>Google Text-to-Speech (gTTS)
+>Pygame
+>Character AI
