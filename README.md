@@ -1,4 +1,4 @@
-# Hindi Text-to-Speech (TTS) Bot
+# Anime Character Bot
 
 ## Overview
 This is a simple Python bot that converts text to speech (TTS) in Hindi using the Google Text-to-Speech (gTTS) API and plays it back using Pygame library. It utilizes the Character AI API for natural language processing and communication.
